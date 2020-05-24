@@ -1,2 +1,7 @@
-- name: Say Hello World
-  uses: ajilraju/helloworld-actions@v1.3
+- name: Hello World test wade
+  uses: weide-zhou/ActionLearning1@v1.2
+  with:
+    # Who to greet
+    who-to-greet: # default is World
+    # Who to greet2
+    who-to-greet2: 
