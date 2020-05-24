@@ -1,0 +1,5 @@
+- name: Hello Action
+  uses: wxdlong/hello-action@v7
+  with:
+    # who to greet
+    who-to-greet: # default is wxdlong
